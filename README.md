@@ -7,6 +7,6 @@ I work on *Systems for Machine Learning* @anyscale.
 I love doing research @ucbrise:
 - [InferLine: ML Inference Pipeline Composition Framework](https://arxiv.org/abs/1812.01776) studies how to optimize model serving pipelines.
 - [The OoO VLIW JIT Compiler for GPU Inference](https://arxiv.org/abs/1901.10008) tries to multiplex many kernels on the same GPU.
-- [Towards Scalable Dataframe Systems](https://arxiv.org/abs/2001.00888) formalizes Pandas DataFrame.
+- VLDB 2020: [Towards Scalable Dataframe Systems](http://www.vldb.org/pvldb/vol13/p2033-petersohn.pdf) formalizes Pandas DataFrame.
 
 Reach out to me: simon.mo at hey.com
