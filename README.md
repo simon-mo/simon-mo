@@ -1,6 +1,6 @@
 ### 👋 I'm Simon.
 
-Currently, I'm a PhD student at Berkeley Sky Computing Lab for machine learning system and cloud infrastructures.
+Currently, I'm a PhD student at Berkeley Sky Computing Lab for machine learning system and cloud infrastructures. I am advised by [Prof. Joseph Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/). 
 
 My latest focus is building an end to end stack for LLM inference on your own infrastructure. 
 
