@@ -1,9 +1,10 @@
 ### 👋 I'm Simon.
 
-Currently, I'm a PhD student at Berkeley Sky Computing Lab for cross cloud applications.
-Focusing on @skyplane-project at the moment.
+Currently, I'm a PhD student at Berkeley Sky Computing Lab for machine learning system and cloud infrastructures.
 
-I previously work on *Prediction Serving System* @anyscale. 
+My latest focus is building an end to end stack for LLM inference on your own infrastructure. 
+
+I previously work on *Model Serving System* @anyscale. 
 - [Ray](https://github.com/ray-project/ray) takes your Python code and scale it to thousands of cores.
 - [Ray Serve](https://docs.ray.io/en/latest/serve/index.html#rayserve) empowers data scientists to own their end-to-end inference APIs.
 
