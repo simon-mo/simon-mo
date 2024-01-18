@@ -16,6 +16,6 @@ Before Anyscale, I was a undergraduate researcher @ucbrise:
 ](https://vldb.org/pvldb/volumes/17/paper/RALF%3A%20Accuracy-Aware%20Scheduling%20for%20Feature%20Store%20Maintenance) proposes feature update in feature store can be a lot more efficient. 
 - SoCC 2020: [InferLine: ML Inference Pipeline Composition Framework](https://arxiv.org/abs/1812.01776) studies how to optimize model serving pipelines.
 - VLDB 2020: [Towards Scalable Dataframe Systems](http://www.vldb.org/pvldb/vol13/p2033-petersohn.pdf) formalizes Pandas DataFrame.
-- [The OoO VLIW JIT Compiler for GPU Inference](https://arxiv.org/abs/1901.10008) tries to multiplex many kernels on the same GPU.
+- SysML Workshop @ Neurips 2018: [The OoO VLIW JIT Compiler for GPU Inference](https://arxiv.org/abs/1901.10008) tries to multiplex many kernels on the same GPU.
 
 Reach out to me: simon.mo at hey.com
