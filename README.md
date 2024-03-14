@@ -11,7 +11,11 @@ I previously work on *Model Serving System* @anyscale.
 - [Ray](https://github.com/ray-project/ray) takes your Python code and scale it to thousands of cores.
 - [Ray Serve](https://docs.ray.io/en/latest/serve/index.html#rayserve) empowers data scientists to own their end-to-end inference APIs.
 
-Before Anyscale, I was a undergraduate researcher @ucbrise:
+Before Anyscale, I was a undergraduate researcher @ucbrise.
+
+Publications:
+- Under submission: [Optimizing LLM Queries in Relational Workloads](https://arxiv.org/abs/2403.05821)
+- NSDI 2024: [Cloudcast: High-Throughput, Cost-Aware Overlay Multicast in the Cloud](https://www.usenix.org/conference/nsdi24/presentation/wooders) plan the best network for cloud object store replications.
 - VLDB 2024: [RALF: Accuracy-Aware Scheduling for Feature Store Maintenance
 ](https://vldb.org/pvldb/volumes/17/paper/RALF%3A%20Accuracy-Aware%20Scheduling%20for%20Feature%20Store%20Maintenance) proposes feature update in feature store can be a lot more efficient. 
 - SoCC 2020: [InferLine: ML Inference Pipeline Composition Framework](https://arxiv.org/abs/1812.01776) studies how to optimize model serving pipelines.
