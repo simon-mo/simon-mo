@@ -1,11 +1,13 @@
 ### 👋 I'm Simon.
 
-Currently, I'm a PhD student at Berkeley Sky Computing Lab for machine learning system and cloud infrastructures. I am advised by [Prof. Joseph Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/). 
+Currently, I'm a PhD student at Berkeley Sky Computing Lab for machine learning system and cloud infrastructures. I am advised by [Prof. Joseph Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/) and [Prof. Ion Stoica](https://people.eecs.berkeley.edu/~istoica/). 
 
-My latest focus is building an end to end stack for LLM inference on your own infrastructure. This work includs
+My latest focus is building an end to end stack for LLM inference on your own infrastructure:
 - [vLLM](https://github.com/vllm-project/vllm) runs LLM inference efficiently. 
-- Conex builds, push, and pull containers fast.
-- SkyATC orchestrate LLMs in multi-cloud and scaling them to zero. 
+
+Previous exploration includes:
+- Conex: builds, push, and pull containers fast.
+- SkyATC: orchestrate LLMs in multi-cloud and scaling them to zero. 
 
 I previously work on *Model Serving System* @anyscale. 
 - [Ray](https://github.com/ray-project/ray) takes your Python code and scale it to thousands of cores.
